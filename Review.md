@@ -11,3 +11,4 @@ while i < words.length
 end
 
 each - do something for each element in the array
+
